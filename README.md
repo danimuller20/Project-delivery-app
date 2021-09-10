@@ -1,5 +1,7 @@
 # Projeto trybe desenvolvido em grupo
 
+#### Projeto com testes propostos pela Trybe como forma de avaliação do projeto.
+
 ## Scripts relevantes do `package.json` principal
 
 **São os scripts da raiz do projeto (`./package.json`)** *(e não das aplicações individuais `./front-end/package.json` e `./back-end/package.json`)*:
