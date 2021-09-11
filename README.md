@@ -1,6 +1,6 @@
 # Projeto trybe desenvolvido em grupo
 
-#### Projeto com testes propostos pela Trybe como forma de avaliação do mesmo.
+### O projeto contém testes implementado pela trybe para o critério de valiação do mesmo.
 
 ## Scripts relevantes do `package.json` principal
 
